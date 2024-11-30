@@ -38,19 +38,3 @@ Menambahkan data mahasiswa baru ke dalam database.
 ![POST Endpoint](https://github.com/user-attachments/assets/979505be-4bcf-40c0-a513-085be60b1b16
 )
 
-
----
-
-
-)
-
----
-
-### 2. **POST**: Menambahkan Data Mahasiswa
-Menambahkan data mahasiswa baru ke dalam database.  
-**Screenshot**:  
-![POST Endpoint](https://github.com/user-attachments/assets/6a22cd25-d262-4c28-a7d0-408ac27ec827)
-
-
----
-
